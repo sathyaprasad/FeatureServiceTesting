@@ -1,0 +1,54 @@
+{
+    "access": "private",
+    "accessInformation": null,
+    "appCategories": [
+    ],
+    "avgRating": 0,
+    "banner": null,
+    "commentsEnabled": true,
+    "created": 1435824744000,
+    "culture": "en-us",
+    "description": null,
+    "documentation": null,
+    "extent": [
+    ],
+    "guid": null,
+    "id": "a2176dcef9e94587af0cc4d8f942d30c",
+    "industries": [
+    ],
+    "languages": [
+    ],
+    "largeThumbnail": null,
+    "licenseInfo": null,
+    "listed": false,
+    "modified": 1435867018000,
+    "name": "4bc1d318a6674cb5ad6c07309027769b.zip",
+    "numComments": 0,
+    "numRatings": 0,
+    "numViews": 5,
+    "owner": "breams_nation",
+    "ownerFolder": null,
+    "properties": null,
+    "protected": false,
+    "screenshots": [
+    ],
+    "size": 21019,
+    "snippet": "FeatureServiceTesting",
+    "spatialReference": null,
+    "tags": [
+        "qml",
+        "app"
+    ],
+    "thumbnail": "thumbnail/thumbnail.png",
+    "thumbnailUrl": "https://www.arcgis.com/sharing/rest/content/items/a2176dcef9e94587af0cc4d8f942d30c/info/thumbnail/thumbnail.png?token=LcRILVeK7A8o9noCFGkflwX70EdvfK5vPsykzegY8wROkpcPQ4W9M-Eku-zw9AcSVfLptNj-5dEOYxphlKmf_FZmJotODXRlrdT1BWcy7WhAb0w0afTbXh64dRZVp3VLBf4e-Cs0Ru3mz943ozA35A..",
+    "title": "FeatureServiceTesting",
+    "type": "Code Sample",
+    "typeKeywords": [
+        "App",
+        "Code",
+        "Other",
+        "Qml",
+        "Sample"
+    ],
+    "url": null
+}

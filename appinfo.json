@@ -1,0 +1,8 @@
+{
+    "mainFile": "FeatureServiceTesting.qml",
+    "projectFile": "FeatureServiceTesting.qmlproject",
+    "type": "app",
+    "version": {
+        "micro": 6
+    }
+}
